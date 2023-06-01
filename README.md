@@ -22,5 +22,7 @@ Practice Data Frames in sarahdeconink_2.ipynb
 ### Transpose (rows<-->columns)
 ### Sort
 
+## Task 3: Extra Credit
 
+Practice Cleaning Data
 -----
