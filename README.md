@@ -1,25 +1,22 @@
 # Introduction to Jupyter Notebooks in VS Code
 
-- [GitHub Repository](https://github.com/denisecase/datafun-04-notebooks/)
+- [GitHub Repository](https://github.com/Sarah566092/datafun-04-notebooks)
 
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
 
-## Step 1: Open The Project Folder
+This notebook will be used to practice Series and Dataframe functions. The panda library will be imported and used
 
-Open VS Code and clone your `datafun-04-notebooks` repository to your machine.
+## Task 1: Series
 
-## Step 2: Update Default Python
+Practice Series and Series from a Dictionary
 
-Open a terminal in VS Code. Use the menu View / Terminal. 
-In Windows, use PowerShell, in Mac, use bash.
-Verify you've added some essential packages to your default Python environment.
+## Task 2: Data Frames
 
-```shell
-python -m pip install --upgrade pip ipykernel jupyterlab
-python -m pip install --upgrade black ruff
-```
+### Create Data Frame
 
-Note: If `py` or `python3` works on your machine, use that instead of `python` in the commands.
+### Create Custom Index
+
+###
 
 -----
 
